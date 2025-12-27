@@ -5,4 +5,4 @@ Estou cursando Análise e Desenvolvimento de Sistemas 📚💻😊
 
 <img width="35" height="35" alt="python" src="https://github.com/user-attachments/assets/11c66688-8960-4ecc-bea2-ccc2ea8aea59" />
 <img width="35" height="35" alt="sql" src="https://github.com/user-attachments/assets/e42bb667-d91b-4466-ab1c-40ed37720be0" />
-<img width="35" height="35" alt="git" src="https://github.com/user-attachments/assets/c11b6686-fd30-4cc1-8db2-9767c5e61bb0" />
+<img width="35" height="35" alt="git" src="https://github.com/user-attachments/assets/c11b6686-fd30-4cc1-8db2-9767c5e61bb0" />                    
