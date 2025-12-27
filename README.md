@@ -1,6 +1,6 @@
 ## Hi👋 Me Chamo Raquel Cordeiro 
 
-Estou cursando Análise e Desenvolvimento de Sistemas 📚💻😊
+**Análise e Desenvolvimento de Sistemas** 1° período 📚💻😊
 
 
 <img width="35" height="35" alt="python" src="https://github.com/user-attachments/assets/11c66688-8960-4ecc-bea2-ccc2ea8aea59" />
