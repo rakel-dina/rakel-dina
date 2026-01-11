@@ -1,4 +1,4 @@
-# <img width="65" height="148" alt="octocat-1766969105135_200" src="https://github.com/user-attachments/assets/0074da75-15b3-430d-8915-f8f55e901b71" />   Olá! Me chamo Raquel Cordeiro 
+# <img width="50" height="148" alt="octocat-1766969105135_200" src="https://github.com/user-attachments/assets/0074da75-15b3-430d-8915-f8f55e901b71" />   Olá! Me chamo Raquel Cordeiro 
 
 
 ## Estudante de Análise e Desenvolvimento de Sistemas 1° período  📚💻😊
